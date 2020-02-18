@@ -1,0 +1,11 @@
+# bsnum_allowed=419, bsnum_skipped=0
+p1 <- c(8.230,8.501,8.578,8.612,8.985,9.633,10.462,11.125,11.971,12.971,13.467,13.103,12.199,11.555,10.881,10.252,9.826,9.519,9.156,8.539,8.177)
+p2 <- c(7.163,7.263,7.350,7.499,7.952,8.424,8.970,9.435,10.243,11.050,11.311,10.872,10.244,9.572,9.230,8.735,8.313,8.003,7.810,7.468,7.242)
+x <- seq.int(from=-1000,to=1000,by=100)
+ymax <- ceiling(max(c(max(p1),max(p2))))
+pdf("promoter.cohesin.pdf",6,6)
+plot(x,p1,type="l",col=rgb(1.000,0.000,0.000),xlab="Distance from the peak summit (bp)",ylab="Read density", ylim=c(0, ymax))
+lines(x,p2,col=rgb(0.196,0.196,0.588))
+polygon(c(x, rev(x)), c(p1_lower, rev(p1_upper)), col=rgb(1.000,0.000,0.000,0.3), border=NA)
+polygon(c(x, rev(x)), c(p2_lower, rev(p2_upper)), col=rgb(0.196,0.196,0.588,0.3), border=NA)
+legend("bottomleft",c("Rad21_0min","Rad21_45min"),lty=c(1,1),col=c(rgb(1.000,0.000,0.000),rgb(0.196,0.196,0.588)), lwd=1.5)

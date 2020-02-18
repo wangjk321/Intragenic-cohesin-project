@@ -1,0 +1,11 @@
+# bsnum_allowed=196, bsnum_skipped=0
+p1 <- c(6.512,7.094,7.964,8.669,9.203,9.209,8.921,8.376,8.218,8.079,8.242,8.975,9.400,9.287,8.517,7.926,7.675,7.625,7.098,6.668,6.365)
+p2 <- c(6.381,6.636,7.160,7.501,7.768,7.678,7.326,6.806,6.667,6.589,6.664,7.128,7.723,7.853,7.227,6.650,6.475,6.491,6.236,6.043,5.764)
+x <- seq.int(from=-1000,to=1000,by=100)
+ymax <- ceiling(max(c(max(p1),max(p2))))
+pdf("promoter.pdf",6,6)
+plot(x,p1,type="l",col=rgb(1.000,0.000,0.000),xlab="Distance from the peak summit (bp)",ylab="Read density", ylim=c(0, ymax))
+lines(x,p2,col=rgb(0.196,0.196,0.588))
+polygon(c(x, rev(x)), c(p1_lower, rev(p1_upper)), col=rgb(1.000,0.000,0.000,0.3), border=NA)
+polygon(c(x, rev(x)), c(p2_lower, rev(p2_upper)), col=rgb(0.196,0.196,0.588,0.3), border=NA)
+legend("bottomleft",c("Rad21_0min","Rad21_45min"),lty=c(1,1),col=c(rgb(1.000,0.000,0.000),rgb(0.196,0.196,0.588)), lwd=1.5)
