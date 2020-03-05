@@ -1,0 +1,7 @@
+CAGE_MCF7.bed
+CAGE_all.bed
+DNAmethyl.bed
+DNase.bed
+FAIRE.bed
+TFs
+list.txt

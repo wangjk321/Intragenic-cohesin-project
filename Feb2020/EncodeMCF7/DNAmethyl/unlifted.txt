@@ -1,0 +1,170 @@
+#Deleted in new
+chr1	149575994	149575995	MCF7_NoStarve_B2__GC_	2	-
+#Deleted in new
+chr1	155184368	155184369	MCF7_NoStarve_B2__GC_	53	+
+#Deleted in new
+chr1	235667169	235667170	MCF7_NoStarve_B2__GC_	29	-
+#Deleted in new
+chr1	44276554	44276555	MCF7_NoStarve_B2__GC_	1	-
+#Deleted in new
+chr10	1282394	1282395	MCF7_NoStarve_B2__GC_	7	+
+#Deleted in new
+chr11	1082529	1082530	MCF7_NoStarve_B2__GC_	39	-
+#Deleted in new
+chr11	1082532	1082533	MCF7_NoStarve_B2__GC_	39	-
+#Deleted in new
+chr11	1225270	1225271	MCF7_NoStarve_B2__GC_	6	+
+#Deleted in new
+chr14	106303231	106303232	MCF7_NoStarve_B2__GC_	14	+
+#Deleted in new
+chr14	106542896	106542897	MCF7_NoStarve_B2__GC_	2	-
+#Deleted in new
+chr17	21901936	21901937	MCF7_NoStarve_B2__GC_	21	-
+#Deleted in new
+chr17	21901944	21901945	MCF7_NoStarve_B2__GC_	21	-
+#Deleted in new
+chr17	35294204	35294205	MCF7_NoStarve_B2__GC_	12	+
+#Deleted in new
+chr17	35294208	35294209	MCF7_NoStarve_B2__GC_	12	+
+#Deleted in new
+chr17	77663453	77663454	MCF7_NoStarve_B2__GC_	2	+
+#Deleted in new
+chr17	77663492	77663493	MCF7_NoStarve_B2__GC_	20	+
+#Deleted in new
+chr17	77663502	77663503	MCF7_NoStarve_B2__GC_	20	+
+#Deleted in new
+chr17	77675872	77675873	MCF7_NoStarve_B2__GC_	1	-
+#Deleted in new
+chr17	81059765	81059766	MCF7_NoStarve_B2__GC_	27	+
+#Deleted in new
+chr18	77831756	77831757	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr19	40411912	40411913	MCF7_NoStarve_B2__GC_	279	+
+#Deleted in new
+chr19	40411930	40411931	MCF7_NoStarve_B2__GC_	279	+
+#Deleted in new
+chr19	40411934	40411935	MCF7_NoStarve_B2__GC_	279	+
+#Deleted in new
+chr19	40411939	40411940	MCF7_NoStarve_B2__GC_	279	+
+#Deleted in new
+chr19	40411970	40411971	MCF7_NoStarve_B2__GC_	17	-
+#Deleted in new
+chr19	40412003	40412004	MCF7_NoStarve_B2__GC_	17	-
+#Deleted in new
+chr19	54693526	54693527	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr19	54704767	54704768	MCF7_NoStarve_B2__GC_	88	+
+#Deleted in new
+chr2	242763907	242763908	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr2	242763908	242763909	MCF7_NoStarve_B2__GC_	48	-
+#Deleted in new
+chr2	87727021	87727022	MCF7_NoStarve_B2__GC_	3	+
+#Deleted in new
+chr2	91635166	91635167	MCF7_NoStarve_B2__GC_	2	-
+#Deleted in new
+chr2	91670865	91670866	MCF7_NoStarve_B2__GC_	19	+
+#Deleted in new
+chr2	91670868	91670869	MCF7_NoStarve_B2__GC_	19	+
+#Deleted in new
+chr2	91670870	91670871	MCF7_NoStarve_B2__GC_	19	+
+#Deleted in new
+chr2	91670888	91670889	MCF7_NoStarve_B2__GC_	19	+
+#Deleted in new
+chr2	91671047	91671048	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr2	91671049	91671050	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr2	91696940	91696941	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr2	91696941	91696942	MCF7_NoStarve_B2__GC_	80	-
+#Deleted in new
+chr2	91696973	91696974	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr2	91750202	91750203	MCF7_NoStarve_B2__GC_	15	+
+#Deleted in new
+chr20	278688	278689	MCF7_NoStarve_B2__GC_	42	-
+#Deleted in new
+chr21	45989210	45989211	MCF7_NoStarve_B2__GC_	109	+
+#Deleted in new
+chr22	49550030	49550031	MCF7_NoStarve_B2__GC_	1	-
+#Deleted in new
+chr22	49748689	49748690	MCF7_NoStarve_B2__GC_	189	+
+#Deleted in new
+chr7	100608366	100608367	MCF7_NoStarve_B2__GC_	46	+
+#Deleted in new
+chr7	100609625	100609626	MCF7_NoStarve_B2__GC_	201	+
+#Deleted in new
+chr7	100609628	100609629	MCF7_NoStarve_B2__GC_	201	+
+#Deleted in new
+chr7	100609631	100609632	MCF7_NoStarve_B2__GC_	201	+
+#Deleted in new
+chr7	100609633	100609634	MCF7_NoStarve_B2__GC_	201	+
+#Deleted in new
+chr7	100609657	100609658	MCF7_NoStarve_B2__GC_	201	+
+#Deleted in new
+chr7	100609658	100609659	MCF7_NoStarve_B2__GC_	285	-
+#Deleted in new
+chr7	100609665	100609666	MCF7_NoStarve_B2__GC_	285	-
+#Deleted in new
+chr7	100609669	100609670	MCF7_NoStarve_B2__GC_	285	-
+#Deleted in new
+chr7	100609734	100609735	MCF7_NoStarve_B2__GC_	240	+
+#Deleted in new
+chr7	100609741	100609742	MCF7_NoStarve_B2__GC_	240	+
+#Deleted in new
+chr7	100609742	100609743	MCF7_NoStarve_B2__GC_	61	-
+#Deleted in new
+chr7	100609765	100609766	MCF7_NoStarve_B2__GC_	240	+
+#Deleted in new
+chr7	100609766	100609767	MCF7_NoStarve_B2__GC_	61	-
+#Deleted in new
+chr7	100609771	100609772	MCF7_NoStarve_B2__GC_	61	-
+#Deleted in new
+chr7	155130597	155130598	MCF7_NoStarve_B2__GC_	1	-
+#Deleted in new
+chr7	155130599	155130600	MCF7_NoStarve_B2__GC_	1	-
+#Deleted in new
+chr7	155143310	155143311	MCF7_NoStarve_B2__GC_	46	-
+#Deleted in new
+chr7	155143323	155143324	MCF7_NoStarve_B2__GC_	46	-
+#Deleted in new
+chr7	155143342	155143343	MCF7_NoStarve_B2__GC_	46	-
+#Deleted in new
+chr7	496780	496781	MCF7_NoStarve_B2__GC_	9	+
+#Deleted in new
+chr7	496828	496829	MCF7_NoStarve_B2__GC_	42	+
+#Deleted in new
+chr7	497053	497054	MCF7_NoStarve_B2__GC_	66	-
+#Deleted in new
+chr8	120220775	120220776	MCF7_NoStarve_B2__GC_	72	-
+#Deleted in new
+chr8	2046172	2046173	MCF7_NoStarve_B2__GC_	32	-
+#Deleted in new
+chr8	2212360	2212361	MCF7_NoStarve_B2__GC_	36	+
+#Deleted in new
+chr9	136223224	136223225	MCF7_NoStarve_B2__GC_	25	+
+#Deleted in new
+chr9	136223231	136223232	MCF7_NoStarve_B2__GC_	25	+
+#Deleted in new
+chr9	136223238	136223239	MCF7_NoStarve_B2__GC_	25	+
+#Deleted in new
+chr9	42743750	42743751	MCF7_NoStarve_B2__GC_	1	-
+#Deleted in new
+chr9	43133211	43133212	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr9	45731170	45731171	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chr9	45732455	45732456	MCF7_NoStarve_B2__GC_	24	-
+#Deleted in new
+chr9	45732460	45732461	MCF7_NoStarve_B2__GC_	41	+
+#Deleted in new
+chr9	45732461	45732462	MCF7_NoStarve_B2__GC_	24	-
+#Deleted in new
+chr9	47169514	47169515	MCF7_NoStarve_B2__GC_	1	-
+#Deleted in new
+chr9	70654673	70654674	MCF7_NoStarve_B2__GC_	1	+
+#Deleted in new
+chrX	153775352	153775353	MCF7_NoStarve_B2__GC_	5	-
+#Deleted in new
+chrX	153775355	153775356	MCF7_NoStarve_B2__GC_	5	-

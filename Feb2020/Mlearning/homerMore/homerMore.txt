@@ -1,0 +1,9 @@
+Interaction_res10k_PlusVsMinus.txt
+InteractionsByChr_res2k_Plus.txt
+combinedPlus.DI.bedGraph
+combinedPlus.DLR.bedGraph
+combinedPlus.ICF.bedGraph
+combinedPlus.Insulation.bedGraph
+homerMore.txt
+merged.loop.2D.bed
+merged.tad.2D.bed
