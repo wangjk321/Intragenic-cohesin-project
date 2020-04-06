@@ -159,6 +159,8 @@ cut -f 1-3,5 allCohesin.bed |\
        	awk 'BEGIN{OFS="\t"}{if($4>0.5){print $1"-"$2"-"$3,1}else if($4<-0.5){print $1"-"$2"-"$3,-1}else{print $1"-"$2"-"$3,0}}'|\
 	sed '1icohesinPos\tMvalue' > ./binotxt/Mvalue.txt
 
+#Mvalue continuous
+awk '{print $1"-"$2"-"$3"\t"$5}' allCohesin.bed |        sed '1i CohesinPos\tMvalue_continue' > continuetxt/Mvalue_continue.txt
 
 
 ##semi-bino for chromatin location

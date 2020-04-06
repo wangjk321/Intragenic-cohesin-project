@@ -31,8 +31,10 @@ paste cohesin.pos *txt *encode > bino.merge
 rm *txt *encode
 rm cohesin.pos
 
-cut -f 2-15 continue.merge > continue.temp
-paste bino.merge continue.temp > All161b14c.matrix
+cut -f 2-16 continue.merge > continue.temp
+paste bino.merge continue.temp > All161b15c.matrix
+
+#同时有Mvalue bino 和Mvalue continue
 
 rm continue.temp
 
